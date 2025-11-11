@@ -1,5 +1,6 @@
 # MadSnake
 A snake game with added items
 
-I made this starting with code from another snake game.
-The original file is provided <- not yet actually
+I made this by heavily modifying an existing snake game: https://github.com/rajatdiptabiswas/snake-pygame
+\n
+I also used code from: https://gist.github.com/wynand1004/ec105fd2f457b10d971c09586ec44900
