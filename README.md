@@ -1,5 +1,18 @@
-# MadSnake
-A snake game with added items
 
-I made this by modifying an existing snake game: https://github.com/rajatdiptabiswas/snake-pygame  
-I also used code from: https://gist.github.com/wynand1004/ec105fd2f457b10d971c09586ec44900
+# MadSnake
+
+A snake game with added items.  
+
+
+## Requirements
+
+This game **requires `customtkinter`**.
+
+Install it with:
+
+```bash
+pip install customtkinter
+```
+
+This game was made by modifying an existing snake game: https://github.com/rajatdiptabiswas/snake-pygame  
+Code was also used from: https://gist.github.com/wynand1004/ec105fd2f457b10d971c09586ec44900
