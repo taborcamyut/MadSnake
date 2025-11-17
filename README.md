@@ -3,10 +3,16 @@ A snake game with added items.
 
 This game **requires `customtkinter`**.
 
-You can install it by running this in command prompt:
+You can install it by running this in command prompt (Windows):
 
 ```bash
 pip install customtkinter
+```
+
+You can install it by running this in terminal (Mac):
+
+```bash
+pip3 install customtkinter
 ```
 
 I made this game by modifying an existing snake game: https://github.com/rajatdiptabiswas/snake-pygame  
