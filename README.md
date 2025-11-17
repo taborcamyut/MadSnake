@@ -3,13 +3,13 @@ A snake game with added items.
 
 This game **requires `customtkinter`**.
 
-You can install it by running this in command prompt (Windows):
+You can install it by running this in command prompt (if you use Windows):
 
 ```bash
 pip install customtkinter
 ```
 
-You can install it by running this in terminal (Mac):
+Or by running this in terminal (if you have a Mac):
 
 ```bash
 pip3 install customtkinter
