@@ -17,7 +17,6 @@ Or by running this in terminal (if you have a Mac):
 ```bash
 pip3 install customtkinter
 ```
-You can always uninstall customtkinter by replacing "install" with "uninstall" (but it hardly takes any space on your computer there's no need to worry about installing it)
 
 ---
 
