@@ -26,11 +26,11 @@ pip3 install customtkinter
 
 2. Click the download button (in the top right currently)
 
-3. Open terminal or command prompt
+3. Open command prompt or terminal
 
 4. Type `cd downloads` and press Enter to get to your downloads folder
 
-5. Type `python madsnake.py` or `python3 madsnake.py` to run the file (I don't know which one will work)
+5. Type `python madsnake.py` or `python3 madsnake.py` to run the file
 
 
 ---
