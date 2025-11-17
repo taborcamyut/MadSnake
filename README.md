@@ -8,7 +8,7 @@ A snake game with added items.
 
 This game **requires `customtkinter`**.
 
-Install it with:
+You can install it by running this in command prompt:
 
 ```bash
 pip install customtkinter
