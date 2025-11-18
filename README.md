@@ -6,13 +6,19 @@ A snake game with added items.
 
 You can install Python by going to [their website](https://www.python.org/downloads/) and installing the latest version for your device ([Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/macos/))
 
-You can install customtkinter by running this in command prompt (if you use Windows):
+<br>
+
+If you're using Windows, you can install customtkinter by running this in Command Prompt:
+
+(open command prompt by pressing Win + R, typing `cmd`, and then pressing Enter)
 
 ```bash
 pip install customtkinter
 ```
 
-Or by running this in terminal (if you have a Mac):
+You can install customtkinter on Mac by typing this in Terminal:
+
+(open terminal by pressing Command + Space, typing `terminal`, and then pressing Enter)
 
 ```bash
 pip3 install customtkinter
@@ -32,6 +38,22 @@ pip3 install customtkinter
 
 5. Type `python madsnake.py` or `python3 madsnake.py` to run the file
 
+
+---
+
+### Game Details
+
+- Control with W, A, S, D or arrow keys
+
+- Apples (Red circles) - Increase your length by one and your score by 10
+
+- Oranges (Orange circles) - Decrease your length by one ← Bad!
+
+- Sugar (Blue with white) - Gives you a sugar rush or a sugar crash
+
+- Portals (Purple lines) - Sends you to a partner portal
+
+- Bombs (Black circles) - Explodes after a certain amount of time, will end the game if touched
 
 ---
 
