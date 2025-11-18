@@ -57,7 +57,7 @@ pip3 install customtkinter
 
 - Lemons (Yellow circles) - Currently do nothing
 
-- Every time you play you have to close the game and run `python madsnake.py` or `python3 madsnake.py` again
+- Every time you play you have to close the game and run `python madsnake.py` or `python3 madsnake.py` again (in Command Prompt, you can press the up arrow to repeat what you just typed)
 
 ---
 
