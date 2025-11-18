@@ -55,6 +55,10 @@ pip3 install customtkinter
 
 - Bombs (Black circles) - Explodes after a certain amount of time, will end the game if touched
 
+- Lemons (Yellow circles) - Currently do nothing
+
+- Every time you play you have to close the game and run `python madsnake.py` or `python3 madsnake.py` again
+
 ---
 
 I made this game by modifying an existing snake game: https://github.com/rajatdiptabiswas/snake-pygame  
