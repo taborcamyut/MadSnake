@@ -8,38 +8,41 @@ A Snake game with cool items
 
 * Install [Python](https://www.python.org/downloads/windows/)
 
-* Open command prompt (press Win + R, type 'cmd', then press Enter) and run the following command to install ctkinter:
+* Open command prompt (press Win + R, type 'cmd', then press Enter)
 
+* Type ```bash pip install customtkinter``` and then press Enter to install ctkinter
 
-```bash
-pip install customtkinter
-```
+* Click on `madsnake.py` here in GitHub
+
+* Click the download button (in the top right currently)
+
+* Open command prompt or terminal
+
+* Type `cd downloads` and press Enter to get to your downloads folder
+
+* Type `python madsnake.py` and press Enter to run the file
 
 ### Mac
 
 * Install [Python](https://www.python.org/downloads/macos/)
 
-* Open terminal (Press Cmd + Space, type 'terminal', then press Return) and run the following command to install ctkinter:
+* Open terminal (Press Cmd + Space, type 'terminal', then press Return)
 
-```bash
-pip3 install customtkinter
-```
+* Type ```bash pip3 install customtkinter``` and press Return to install ctkinter
 
-## How to run this game:
+* Click on `madsnake.py` here in GitHub
 
-1. Click on `madsnake.py` here in GitHub
+* Click the download button (in the top right currently)
 
-2. Click the download button (in the top right currently)
+* Open command prompt or terminal
 
-3. Open command prompt or terminal
+* Type `cd ~/Downloads` and press Return to get to your downloads folder
 
-4. Type `cd downloads` (Windows) or `cd ~/Downloads` (Mac) and press Enter to get to your downloads folder
-
-5. Type `python madsnake.py` (Windows) or `python3 madsnake.py` (Mac) to run the file
-
-- Every time you die you have to close the game and run `python madsnake.py` or `python3 madsnake.py` again (in Command Prompt, you can press the up arrow to repeat what you just typed)
+* Type `python3 madsnake.py` and press Return to run the file
 
 ## Game Details
+
+Every time you die you have to close the game and run `python madsnake.py` or `python3 madsnake.py` again (in Command Prompt/Terminal, you can press the up arrow to repeat what you just typed)
 
 Use WASD or Arrow Keys to move around.
 Try to collect apples (red circles) to increase your score.
@@ -48,4 +51,4 @@ Avoid bumping into bombs (black circles), the edge walls, and yourself, which wi
 There's sugar (white in blue circles) which will speed you up or slow you down (sugar high / sugar crash), and also portals (purple lines).
 Have fun with those.
 
-Please ignore the lemons (yellow circles). They don't do anything. Or do they?... no they don't.
+The yellow circles don't do anything.
