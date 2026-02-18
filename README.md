@@ -45,10 +45,9 @@ A Snake game with cool items
 Every time you die you have to close the game and run `python madsnake.py` or `python3 madsnake.py` again (in Command Prompt/Terminal, you can press the up arrow to repeat what you just typed)
 
 Use WASD or Arrow Keys to move around.
-Try to collect apples (red circles) to increase your score.
-Avoid oranges (orange circles) which will decrease your score.
+Try to collect apples (red circles) and lemons (yellow circles) to increase your score.
+Apples add 1 segment, lemons add 2.
+Avoid oranges (orange circles) which will remove a segment and decrease your score.
 Avoid bumping into bombs (black circles), the edge walls, and yourself, which will end the game immediately.
 There's sugar (white in blue circles) which will speed you up or slow you down (sugar high / sugar crash), and also portals (purple lines).
 Have fun with those.
-
-The yellow circles don't do anything.
