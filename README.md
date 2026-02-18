@@ -31,7 +31,7 @@ Use WASD or Arrow Keys to move around.
 Try to collect apples (red circles) to increase your score.
 Avoid oranges (orange circles) which will decrease your score.
 Avoid bumping into bombs (black circles), the edge walls, and yourself, which will end the game immediately.
-There's sugar (white in blue circles) which will speed you up (sugar high) or slow you down (sugar crash), and also portals (purple lines).
+There's sugar (white in blue circles) which will speed you up or slow you down (sugar high / sugar crash), and also portals (purple lines).
 Have fun with those.
 
 Please ignore the lemons (yellow circles). They don't do anything. Or do they?... no they don't.
