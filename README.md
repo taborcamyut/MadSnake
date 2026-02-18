@@ -4,41 +4,43 @@ A Snake game with cool items
 
 ## Setup
 
+*If you've already done this before, you can skip to step 6*
+
 ### Windows
 
-* Install [Python](https://www.python.org/downloads/windows/)
+1. Install [Python](https://www.python.org/downloads/windows/)
 
-* Open command prompt (press Win + R, type 'cmd', then press Enter)
+2. Open command prompt (press Win + R, type 'cmd', then press Enter)
 
-* Type ```bash pip install customtkinter``` and then press Enter to install ctkinter
+3. Type ```bash pip install customtkinter``` and then press Enter to install ctkinter
 
-* Click on `madsnake.py` here in GitHub
+4. Click on `madsnake.py` here in GitHub
 
-* Click the download button (in the top right currently)
+5. Click the download button (in the top right currently)
 
-* Open command prompt or terminal
+6. Open command prompt or terminal
 
-* Type `cd downloads` and press Enter to get to your downloads folder
+7. Type `cd downloads` and press Enter to get to your downloads folder
 
-* Type `python madsnake.py` and press Enter to run the file
+8. Type `python madsnake.py` and press Enter to run the file
 
 ### Mac
 
-* Install [Python](https://www.python.org/downloads/macos/)
+1. Install [Python](https://www.python.org/downloads/macos/)
 
-* Open terminal (Press Cmd + Space, type 'terminal', then press Return)
+2. Open terminal (Press Cmd + Space, type 'terminal', then press Return)
 
-* Type ```bash pip3 install customtkinter``` and press Return to install ctkinter
+3. Type ```bash pip3 install customtkinter``` and press Return to install ctkinter
 
-* Click on `madsnake.py` here in GitHub
+4. Click on `madsnake.py` here in GitHub
 
-* Click the download button (in the top right currently)
+5. Click the download button (in the top right currently)
 
-* Open command prompt or terminal
+6. Open command prompt or terminal
 
-* Type `cd ~/Downloads` and press Return to get to your downloads folder
+7. Type `cd ~/Downloads` and press Return to get to your downloads folder
 
-* Type `python3 madsnake.py` and press Return to run the file
+8. Type `python3 madsnake.py` and press Return to run the file
 
 ## Game Details
 
