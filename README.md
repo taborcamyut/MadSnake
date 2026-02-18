@@ -1,65 +1,37 @@
-A snake game with added items.  
+# MadSnake
 
----
+A Snake game with cool items
 
-### This game requires Python and customtkinter.
+## Setup
 
-You can install Python by going to [their website](https://www.python.org/downloads/) and installing the latest version for your device ([Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/macos/))
+### Windows
 
-<br>
+* Install [Python](https://www.python.org/downloads/windows/)
 
-If you're using Windows, you can install customtkinter by running this in Command Prompt:
+* Open command prompt (press Win + R, type 'cmd', then press Enter) and run the following command to install ctkinter:
 
-(open command prompt by pressing Win + R, typing `cmd`, and then pressing Enter)
 
 ```bash
 pip install customtkinter
 ```
 
-You can install customtkinter on Mac by typing this in Terminal:
+### Mac
 
-(open terminal by pressing Command + Space, typing `terminal`, and then pressing Enter)
+* Install [Python](https://www.python.org/downloads/macos/)
+
+* Open terminal (Press Cmd + Space, type 'terminal', then press Return) and run the following command to install ctkinter:
 
 ```bash
 pip3 install customtkinter
 ```
 
----
+## How to Play
 
-### How to run this game:
+Use WASD or Arrow Keys to move around.
+Try to collect apples (red circles) to increase your score.
+Avoid oranges (orange circles) which will decrease your score.
+Avoid bumping into bombs (black circles), the edge walls, and yourself, which will end the game immediately.
+There's sugar (white in blue circles) which will speed you up (sugar high) or slow you down (sugar crash), and also portals (purple lines).
+Have fun with those.
 
-1. Click on `madsnake.py` here in GitHub
-
-2. Click the download button (in the top right currently)
-
-3. Open command prompt or terminal
-
-4. Type `cd downloads` and press Enter to get to your downloads folder
-
-5. Type `python madsnake.py` or `python3 madsnake.py` to run the file
-
-
----
-
-### Game Details
-
-- Control with W, A, S, D or arrow keys
-
-- Apples (Red circles) - Increase your length by one and your score by 10
-
-- Oranges (Orange circles) - Decrease your length by one ← Bad!
-
-- Sugar (Blue with white) - Gives you a sugar rush or a sugar crash
-
-- Portals (Purple lines) - Sends you to a partner portal
-
-- Bombs (Black circles) - Explodes after a certain amount of time, will end the game if touched
-
-- Lemons (Yellow circles) - Currently do nothing
-
-- Every time you play you have to close the game and run `python madsnake.py` or `python3 madsnake.py` again (in Command Prompt, you can press the up arrow to repeat what you just typed)
-
----
-
-I made this game by modifying an existing snake game: https://github.com/rajatdiptabiswas/snake-pygame  
-Code was also used from: https://gist.github.com/wynand1004/ec105fd2f457b10d971c09586ec44900
+Please ignore the lemons (yellow circles). They don't do anything. Or do they?... no they don't.
