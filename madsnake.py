@@ -597,7 +597,7 @@ class SnakeGame(ctk.CTk):
                     self.remove_lemon(item_number)
                     # Add segments to the tail
                     for i in range(2):
-                        self.add_snake_segment
+                        self.add_snake_segment()
 
         # Check for orange collision
         if self.item_positions["orange"] != {}:
