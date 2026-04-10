@@ -14,7 +14,7 @@ A Snake game with cool items
 
 3. Type ```bash pip install customtkinter``` and then press Enter to install ctkinter
 
-4. Click on `madsnake.py` here in GitHub
+4. Click on the `madsnake.py` file here in GitHub
 
 5. Click the download button (in the top right currently)
 
@@ -32,7 +32,7 @@ A Snake game with cool items
 
 3. Type ```bash pip3 install customtkinter``` and press Return to install ctkinter
 
-4. Click on `madsnake.py` here in GitHub
+4. Click on the `madsnake.py` file here in GitHub
 
 5. Click the download button (in the top right currently)
 
@@ -44,7 +44,7 @@ A Snake game with cool items
 
 ## Game Details
 
-Every time you die you have to close the game and run `python madsnake.py` or `python3 madsnake.py` again (in Command Prompt/Terminal, you can press the up arrow to repeat what you just typed)
+Every time you die you have to close the game and run `python madsnake.py` or `python3 madsnake.py` again. (in Command Prompt/Terminal, you can press the up arrow to repeat what you just typed)
 
 Use WASD or Arrow Keys to move around.
 Try to collect apples (red circles) and lemons (yellow circles) to increase your score.
